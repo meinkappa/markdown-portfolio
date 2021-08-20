@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Watch Your Step] (https://gamefabrique.com/screenshots2/pc/fran-bow-02.big.jpg) 
