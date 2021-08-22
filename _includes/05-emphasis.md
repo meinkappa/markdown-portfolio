@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Awesome skills
+
+- **power** nap skills. :+1:
+- **devouring** meals in *seconds*. :+1:
+- **Breathing** air like *there is no tomorrow*. 😵
